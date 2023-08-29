@@ -1,5 +1,5 @@
 {
-    "name": "myits/openid-connect-client-laravel5",
+    "name": "dptsi/openid-connect-client-laravel5",
     "description": "Package myITS SSO for laravel 5",
     "type": "library",
     "require": {
